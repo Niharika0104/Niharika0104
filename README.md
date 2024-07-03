@@ -12,6 +12,7 @@ Hi there! My name is Niharika Goulikar, and I am an developer. I have always bee
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Niharika0104&count_private=true&theme=tokyonight&showicons=true)]()
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Niharika0104&theme=tokyonight" alt="Niharika0104" /></p>
+
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/niharika3329" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://github.com/Niharika0104" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/niharika-goulikar-43a2a01b0/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/NiharikaGoulik1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
