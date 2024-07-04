@@ -13,7 +13,7 @@ Hi there! My name is Niharika Goulikar, and I am an developer. I have always bee
 | S.No          | Project Name                                  | Tech Stack                                     |Link                                         |
 | ------------- |:---------------------------------------------:| ----------------------------------------------:|--------------------------------------------:| 
 |1              | Word Wave                                     | NextJs,Tailwind,Typescript                     |[Link](https://github.com/Niharika0104/wordwave) | 
-|2              | Cab Roster Management System                  |   Blazor,Asp.net 6 core web APIs,MSSQL database|     [Link](https://github.com/Niharika0104/CabRosterManagementSystem) |                    
+|2              | Cab Roster Management System                  |   Blazor,Asp.net 6 core web APIs,MSSQL database|     [Link](https://github.com/Niharika0104/CabRosterManagementSystem)                     
 |3              | Telangana EChallan Application                |    ASP.NET webforms,MSSQL database,ADO.NET     |[Link](https://github.com/Niharika0104/TelanganaEchallan)    | 
 |4              | Workspace Management System                   | ASP.NET MVC,MSSQL database,Entity framework    |<a href="#" class="button blue">Link</a>     | 
 
