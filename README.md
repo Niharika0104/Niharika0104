@@ -19,6 +19,8 @@ Hi there! My name is Niharika Goulikar, and I am an developer. I have always bee
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Niharika0104&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![My Skills](https://skillicons.dev/icons?i=react,dotnet,js,java,cs,docker,git,postman,prisma,css,html,postgres,redis,redux,ts,py,c,nodejs,nextjs,mysql,mongodb,githubT&perline=6)](https://skillicons.dev)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Niharika0104&theme=tokyonight" alt="Niharika0104" /></p>
 
 ### Socials
