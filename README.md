@@ -10,6 +10,19 @@ Hi there! My name is Niharika Goulikar, and I am an developer. I have always bee
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I'm secretly working on a project that I'll make public soon....
 
+| S.No          | Project Name                                  | Tech Stack                                     |Link                                         |
+| ------------- |:---------------------------------------------:| ----------------------------------------------:|--------------------------------------------:| 
+|1              | Word Wave                                     | NextJs,Tailwind,Typescript                     |<a href="#" class="button primary">Link</a>  | 
+|2              | Cab Roster Management System                  |   Blazor,Asp.net 6 core web APIs,MSSQL database|<a href="#" class="button blue">Link</a>     |                     
+|3              | Telangana EChallan Application                |    ASP.NET webforms,MSSQL database,ADO.NET     |<a href="#" class="button blue">Link</a>     | 
+|4              | Workspace Management System                   | ASP.NET MVC,MSSQL database,Entity framework    |<a href="#" class="button blue">Link</a>     | 
+| S.No | Project Name                        | Tech Stack                                     | Link                                         |
+|:------:|:-------------------------------------|:----------------------------------------------:|----------------------------------------------:|
+| 1    | Word Wave                           | NextJs, Tailwind, Typescript                  | [Link](https://github.com/Niharika0104/TelanganaEchallan)                                    |
+| 2    | Cab Roster Management System        | Blazor, Asp.net 6 core web APIs, MSSQL database| [Link](https://github.com/Niharika0104/ZelisCabPortal)                                    |
+| 3    | Telangana EChallan Application      | ASP.NET webforms, MSSQL database, ADO.NET     | [Link](https://github.com/Niharika0104/wordwave)                                    |
+| 4    | Workspace Management System         | ASP.NET MVC, MSSQL database, Entity framework | [Link](#)                                    |
+
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Niharika0104&count_private=true&theme=tokyonight&showicons=true)]()
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Niharika0104&theme=tokyonight" alt="Niharika0104" /></p>
 
