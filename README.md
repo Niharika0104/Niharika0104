@@ -13,15 +13,10 @@ Hi there! My name is Niharika Goulikar, and I am an developer. I have always bee
 | S.No          | Project Name                                  | Tech Stack                                     |Link                                         |
 | ------------- |:---------------------------------------------:| ----------------------------------------------:|--------------------------------------------:| 
 |1              | Word Wave                                     | NextJs,Tailwind,Typescript                     |[Link](https://github.com/Niharika0104/wordwave) | 
-|2              | Cab Roster Management System                  |   Blazor,Asp.net 6 core web APIs,MSSQL database|     [Link](https://github.com/Niharika0104/ZelisCabPortal) |                    
+|2              | Cab Roster Management System                  |   Blazor,Asp.net 6 core web APIs,MSSQL database|     [Link](https://github.com/Niharika0104/CabRosterManagementSystem) |                    
 |3              | Telangana EChallan Application                |    ASP.NET webforms,MSSQL database,ADO.NET     |[Link](https://github.com/Niharika0104/TelanganaEchallan)    | 
 |4              | Workspace Management System                   | ASP.NET MVC,MSSQL database,Entity framework    |<a href="#" class="button blue">Link</a>     | 
-| S.No | Project Name                        | Tech Stack                                     | Link                                         |
-|:------:|:-------------------------------------|:----------------------------------------------:|----------------------------------------------:|
-| 1    | Word Wave                           | NextJs, Tailwind, Typescript                  |                                   |
-| 2    | Cab Roster Management System        | Blazor, Asp.net 6 core web APIs, MSSQL database|                                     |
-| 3    | Telangana EChallan Application      | ASP.NET webforms, MSSQL database, ADO.NET     |                                     |
-| 4    | Workspace Management System         | ASP.NET MVC, MSSQL database, Entity framework | [Link](#)                                    |
+
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Niharika0104&count_private=true&theme=tokyonight&showicons=true)]()
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Niharika0104&theme=tokyonight" alt="Niharika0104" /></p>
