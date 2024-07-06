@@ -10,6 +10,8 @@ Hi there! My name is Niharika Goulikar, and I am an developer. I have always bee
 * 🤝  I'm open to collaborating on Interesting projects
 * ⚡  I'm secretly working on a project that I'll make public soon....
 
+# Projects:
+
 | S.No          | Project Name                                  | Tech Stack                                     |Link                                         |
 | ------------- |:---------------------------------------------:| ----------------------------------------------:|--------------------------------------------:| 
 |1              | Word Wave                                     | NextJs,Tailwind,Typescript                     |[Link](https://github.com/Niharika0104/wordwave) | 
