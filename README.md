@@ -5,9 +5,7 @@
 Hi there! My name is Niharika Goulikar
 
 * ✉️  You can contact me at: [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/NiharikaGoulik1) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=#0d6da8)](https://www.linkedin.com/in/niharika-goulikar-43a2a01b0/)
-* 🧠  I'm currently learning Docker and Kubernetes. 
-* 🤝  I'm open to collaborating on Interesting projects
-* ⚡  I'm secretly working on a project that I'll make public soon....
+
 
 # Projects:
 
